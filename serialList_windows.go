@@ -1,13 +1,15 @@
-package main
+'package main
 
 import (
 	//"fmt"
 	//"github.com/lxn/win"
 	"github.com/go-ole/go-ole"
 	"github.com/go-ole/go-ole/oleutil"
-	"github.com/rowetechinc/go-serial"
+	//"github.com/rowetechinc/go-serial"
 	//"github.com/tarm/goserial"
 	//"github.com/johnlauer/goserial"
+	"go.bug.st/serial"
+	//"github.com/bugst/go-serial"
 	"log"
 	"os"
 	"strings"
